@@ -1,8 +1,4 @@
 # Bruteforce-Hash-OpenSSL
-Cross-platform, multicore bruteforce-hash-openssl in Pure Go
-
-# Bruteforce Hash OpenSSL
-
 Ferramenta de brute-force para quebrar hashes de algoritmos suportados pelo OpenSSL.
 
 ## Compilação
