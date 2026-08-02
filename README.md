@@ -26,7 +26,7 @@ go build -ldflags=-s -o openssl-cracker main.go
 | `-max` | Tamanho máximo | `8` |
 | `-prefix` | Prefixo conhecido | `""` |
 | `-suffix` | Sufixo conhecido | `""` |
-| `-charset` | Conjunto de caracteres | `0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%^&*()-_=+[]{}|;:,.<>?` |
+| `-charset` | Conjunto de caracteres | `0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz` |
 | `-threads` | Número de threads | `runtime.NumCPU()` |
 | `-verbose` | Nível de verbose (0=quiet, 1=normal) | `1` |
 | `-xoflen` | Comprimento em bytes para SHAKE | `16`/`32` |
