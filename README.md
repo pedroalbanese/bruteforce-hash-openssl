@@ -1,9 +1,9 @@
 # BruteForce-Hash-OpenSSL
-[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/bruteforce2/blob/master/LICENSE.md) 
-[![GoDoc](https://godoc.org/github.com/pedroalbanese/bruteforce2?status.png)](http://godoc.org/github.com/pedroalbanese/bruteforce2)
-[![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/bruteforce2/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/bruteforce2/releases)
-[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/bruteforce2)](https://golang.org)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/bruteforce2)](https://github.com/pedroalbanese/bruteforce2/releases)
+[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/bruteforce-hash-openssl/blob/master/LICENSE.md) 
+[![GoDoc](https://godoc.org/github.com/pedroalbanese/bruteforce-hash-openssl?status.png)](http://godoc.org/github.com/pedroalbanese/bruteforce-hash-openssl)
+[![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/bruteforce-hash-openssl/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/bruteforce-hash-openssl/releases)
+[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/bruteforce-hash-openssl)](https://golang.org)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/bruteforce-hash-openssl)](https://github.com/pedroalbanese/bruteforce-hash-openssl/releases)
 
 Ferramenta de brute-force para quebrar hashes de algoritmos suportados pelo OpenSSL.
 
