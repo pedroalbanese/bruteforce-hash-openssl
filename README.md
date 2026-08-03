@@ -68,6 +68,8 @@ echo -n "minha_string" | openssl dgst -shake128 -xoflen 16
 echo -n "minha_string" | openssl dgst -blake2b512
 ```
 
+Confira também: https://github.com/pedroalbanese/bruteforce-salted-openssl
+
 ## License
 
 This project is licensed under the ISC License.
